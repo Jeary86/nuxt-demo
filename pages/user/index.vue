@@ -1,5 +1,5 @@
 <template>
-    <h1>123213123213</h1>
+    <h1>内页</h1>
 </template>
 
 <script>
